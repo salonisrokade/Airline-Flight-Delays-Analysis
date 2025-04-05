@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview  
+##  Project Overview  
 This project involves analyzing **10 years of U.S. flight delays** to uncover delay patterns, seasonal trends, and airline performance. Using **Tableau**, the analysis highlights:  
 - Flight volume trends over time  
 - Seasonal flight patterns (holidays, peak seasons)  
@@ -19,7 +19,6 @@ This project involves analyzing **10 years of U.S. flight delays** to uncover de
 
 The dashboard is interactive and allows users to explore the data by airline, year, month, state, and more.
 
----
 
 ## 📊 Key Insights  
 1. **Flight Volume Trends:**  
@@ -37,18 +36,15 @@ The dashboard is interactive and allows users to explore the data by airline, ye
 5. **State-wise Departure Delays:**  
    - Some states like **California and New York** experience longer delays than others.  
 
----
 
 ## 🛠️ Tools Used  
 - **Tableau**: Data visualization and dashboard creation  
 - **Excel**: For initial data exploration and cleaning  
 
----
 
 ## 📂 Project Files  
 📊 `US-Flight-Delays-Analysis-2013-to-2023.twbx` → Tableau workbook  
 
----
 
 ## 🚀 How to Use This Dashboard?  
 1. **Download** the Tableau Workbook (`.twbx`).  
